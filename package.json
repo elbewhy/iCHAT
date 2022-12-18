@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/elbewhy/iCHAT/issues"
   },
-  "homepage": "https://github.com/elbewhy/iCHAT#readme"
+  "homepage": "https://github.com/elbewhy/iCHAT#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
